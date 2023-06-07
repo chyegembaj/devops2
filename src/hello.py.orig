@@ -1,8 +1,9 @@
 def hello():
     print("Hello World")
-
+<<<<<<< HEAD
+    print("This is feat-merge3 branch")
+=======
     print("This is feat-merge4 branch")
-
- 
+>>>>>>> feat-merge4
 
 hello()
